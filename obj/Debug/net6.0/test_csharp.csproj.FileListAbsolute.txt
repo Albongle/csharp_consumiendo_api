@@ -1,0 +1,14 @@
+/home/telecom/Documentos/test_csharp/bin/Debug/net6.0/test_csharp
+/home/telecom/Documentos/test_csharp/bin/Debug/net6.0/test_csharp.deps.json
+/home/telecom/Documentos/test_csharp/bin/Debug/net6.0/test_csharp.runtimeconfig.json
+/home/telecom/Documentos/test_csharp/bin/Debug/net6.0/test_csharp.dll
+/home/telecom/Documentos/test_csharp/bin/Debug/net6.0/test_csharp.pdb
+/home/telecom/Documentos/test_csharp/obj/Debug/net6.0/test_csharp.GeneratedMSBuildEditorConfig.editorconfig
+/home/telecom/Documentos/test_csharp/obj/Debug/net6.0/test_csharp.AssemblyInfoInputs.cache
+/home/telecom/Documentos/test_csharp/obj/Debug/net6.0/test_csharp.AssemblyInfo.cs
+/home/telecom/Documentos/test_csharp/obj/Debug/net6.0/test_csharp.csproj.CoreCompileInputs.cache
+/home/telecom/Documentos/test_csharp/obj/Debug/net6.0/test_csharp.dll
+/home/telecom/Documentos/test_csharp/obj/Debug/net6.0/refint/test_csharp.dll
+/home/telecom/Documentos/test_csharp/obj/Debug/net6.0/test_csharp.pdb
+/home/telecom/Documentos/test_csharp/obj/Debug/net6.0/test_csharp.genruntimeconfig.cache
+/home/telecom/Documentos/test_csharp/obj/Debug/net6.0/ref/test_csharp.dll
